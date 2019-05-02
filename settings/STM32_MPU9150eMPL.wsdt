@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>STM32_MPU9150eMPL/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>405</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>767</ColumnWidth1><ColumnWidth2>586</ColumnWidth2><ColumnWidth3>65</ColumnWidth3></Build>
+    <TerminalIO/><Debug-Log><ColumnWidth0>22</ColumnWidth0><ColumnWidth1>1859</ColumnWidth1></Debug-Log><Breakpoints><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><col-names><item>Breakpoint</item><item>_I0</item></col-names><col-widths><item>500</item><item>35</item></col-widths></Breakpoints><Find-in-Files><ColumnWidth0>873</ColumnWidth0><ColumnWidth1>94</ColumnWidth1><ColumnWidth2>1138</ColumnWidth2><ColumnWidth3>379</ColumnWidth3></Find-in-Files></Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-29747-15907</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>STM32_MPU9150eMPL</ExpandedNode><ExpandedNode>STM32_MPU9150eMPL/Application</ExpandedNode><ExpandedNode>STM32_MPU9150eMPL/Application/MPU9150eMPL</ExpandedNode><ExpandedNode>STM32_MPU9150eMPL/Application/VirtualCOMport</ExpandedNode><ExpandedNode>STM32_MPU9150eMPL/Output</ExpandedNode><ExpandedNode>STM32_MPU9150eMPL/STM32F10x</ExpandedNode><ExpandedNode>STM32_MPU9150eMPL/STM32F10x/CMSIS</ExpandedNode><ExpandedNode>STM32_MPU9150eMPL/STM32F10x/CPAL_HAL</ExpandedNode><ExpandedNode>STM32_MPU9150eMPL/STM32F10x/STM32_CPAL_Driver</ExpandedNode><ExpandedNode>STM32_MPU9150eMPL/STM32F10x/USB-FS-Device-Driver</ExpandedNode><ExpandedNode>STM32_MPU9150eMPL/eMPL</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-21284-20141</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-29785-49</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab><Tab><Identity>TabID-28128-31372</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>815</YPos2><SelStart2>32755</SelStart2><SelEnd2>32755</SelEnd2></Tab><ActiveTab>0</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\VirtualCOMport\src\hw_config.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>63</YPos2><SelStart2>2585</SelStart2><SelEnd2>2585</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Application\src\mpu9150_interrupts.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>28</YPos2><SelStart2>1737</SelStart2><SelEnd2>1737</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\eMPL\inv_mpu.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>788</YPos2><SelStart2>24150</SelStart2><SelEnd2>24172</SelEnd2></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-05B9ACA8><key>iaridepm.enu1</key></Toolbar-05B9ACA8></Sizes></Row0><Row1><Sizes/></Row1></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>776</Bottom><Right>479</Right><x>-2</x><y>-2</y><xscreen>172</xscreen><yscreen>31</yscreen><sizeHorzCX>67188</sizeHorzCX><sizeHorzCY>31093</sizeHorzCY><sizeVertCX>187891</sizeVertCX><sizeVertCY>780341</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>176</Bottom><Right>2562</Right><x>-2</x><y>-2</y><xscreen>2564</xscreen><yscreen>178</yscreen><sizeHorzCX>1001562</sizeHorzCX><sizeHorzCY>178536</sizeHorzCY><sizeVertCX>67188</sizeVertCX><sizeVertCY>31093</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
